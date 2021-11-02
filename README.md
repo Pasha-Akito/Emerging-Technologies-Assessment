@@ -10,21 +10,21 @@ This repository contains two Jupyter notebooks:
 
 You can view the scikit-learn notebook in static form by clicking the following image:
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Pasha-Akito/numpy-random/blob/main/numpy-random.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Pasha-Akito/Emerging-Technologies-Assessment/blob/main/scikit-learn.ipynb)
 
 You can view the scikit-learn notebook in dynamic form by clicking the following image:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pasha-Akito/numpy-random/HEAD?labpath=numpy-random.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pasha-Akito/Emerging-Technologies-Assessment/blob/main/scikit-learn.ipynb/HEAD)
 
 ***
 
 You can view the quantum-deutsch notebook in static form by clicking the following image:
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Pasha-Akito/numpy-random/blob/main/numpy-random.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/Pasha-Akito/Emerging-Technologies-Assessment/blob/main/quantum-deutsch.ipynb)
 
 You can view the quantum-deutsch notebook in dynamic form by clicking the following image:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pasha-Akito/numpy-random/HEAD?labpath=numpy-random.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Pasha-Akito/Emerging-Technologies-Assessment/blob/main/quantum-deutsch.ipynb/HEAD)
 
 ## How to run the notebook
 
